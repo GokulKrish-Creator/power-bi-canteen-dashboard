@@ -24,3 +24,9 @@ This project is a Power BI dashboard assignment designed to demonstrate business
 
 ## Author
 Created as a Power BI dashboard assignment and learning project.
+
+## Dashboard Preview
+
+### Canteen Dashboard Overview
+
+![Canteen Dashboard Overview](screenshots/canteen-dashboard-overview.png)
